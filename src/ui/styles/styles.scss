@@ -1,8 +1,7 @@
 @import 'theme.scss';
 @import 'mixins';
-@import 'bootstrap/scss/bootstrap';
-//@import '~ngx-owl-carousel-o/lib/styles/scss/owl.carousel';
-//@import '~ngx-owl-carousel-o/lib/styles/scss/owl.theme.default';
+//@import '~node_mod bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap/scss/bootstrap';
 @import 'custom';
 
 @font-face {

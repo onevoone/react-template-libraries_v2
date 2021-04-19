@@ -68,18 +68,23 @@
     "autoprefixer": "^10.2.5",
     "babel-loader": "^8.2.2",
     "cssnano": "^5.0.1",
+    "docz": "^2.3.1",
+    "docz-plugin-storybook": "^0.5.2",
     "husky": "^6.0.0",
     "node-sass": "^5.0.0",
     "postcss": "^8.2.10",
     "postcss-discard-comments": "^4.0.2",
-    "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-loader": "^5.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-is": "^17.0.2",
+    "rollup-plugin-copy-assets": "^2.0.3",
     "rollup-plugin-postcss": "^4.0.0",
+    "rollup-plugin-rebase": "^3.6.4",
     "rollup-plugin-sass": "^1.2.2",
     "rollup-plugin-scss": "^2.6.1",
+    "rollup-plugin-smart-asset": "^2.1.1",
+    "rollup-plugin-styles": "^3.14.1",
     "sass-lint": "^1.13.1",
     "sass-loader": "^10.1.1",
     "size-limit": "^4.10.2",
@@ -89,6 +94,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
+    "postcss-flexbugs-fixes": "^5.0.2",
     "react-bootstrap": "^1.5.2"
   }
 }
